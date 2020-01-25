@@ -293,8 +293,7 @@ color: #A5A5A5;
 	border: 9px solid white; 
 	background-size: 100%;
 background-position: center top;
-flex-basis: 70%
-
+flex-basis: 70%}
 }
 @media (max-width: 836px) {
 .hero-content {
@@ -398,6 +397,4 @@ line-height: 150%;
 .contacts-link:last-child {
 	margin-bottom:0;
 }
-}
-
 }
